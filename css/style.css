@@ -214,7 +214,7 @@ section ul li:before {
 --------------------*/
 
 header {
-	background-image: url(../images/demo/bg-sanza.jpg);
+	background-image: url(../images/pexels-photo.jpg);
 	background-repeat: none;
 	background-attachment: scroll;
 	background-position: center center;
@@ -259,9 +259,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-
 	font-size: 40px;
-
 	margin-bottom: 25px;
 	letter-spacing: -2px;
 	word-spacing: 10px;
@@ -276,6 +274,12 @@ header .intro-text .intro-heading {
 		margin-bottom: 50px;
 	}
 }
+
+.intro-heading {
+	letter-spacing: 15px !important;
+	word-spacing: 10px;
+}
+
 
 /*--------------------
 4. Sections
