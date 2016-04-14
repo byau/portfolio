@@ -542,6 +542,12 @@ figure.effect-bubba:hover p {
 4.5. Partners Slider
 --------------------*/
 
+.item {
+	display: inline-block;
+	margin: 25px auto;
+	position: relative;
+}
+
 .owl-portfolio .owl-controls {
 	position: absolute;
 	left: 0;
