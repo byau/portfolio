@@ -185,7 +185,7 @@ section ul li:before {
 @media (min-width:768px) {
 	.navbar-default
 	{
-		background-color: rgba(255, 255, 255, 0.65);
+		background-color: rgba(255, 255, 255, 0.85);
 		padding: 5px 0;
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;
@@ -250,7 +250,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
 	display: inline-block;
-	background-color: rgba(255, 255, 255, 0.65);
+	background-color: rgba(255, 255, 255, 0.85);
 	margin-bottom: 25px;
 	padding: 4px 20px;
 	font-family: "Open Sans",sans-serif;
@@ -299,14 +299,15 @@ header .intro-text .intro-heading {
 --------------------*/
 
 .section-title h2 {
-	font-size: 34px;
-	text-transform: uppercase;
+	font-size: 4em;
+	text-transform: lowercase;
 	color: #5D5D5D;
 	font-weight: 800;
-	letter-spacing: -0.6px;
+	/*letter-spacing: -0.6px;*/
 	position: relative;
 	margin-bottom: 20px;
 	padding-bottom: 15px;
+	font-family: 'Lobster', cursive;
 }
 
 .section-title h2:after {
