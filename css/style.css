@@ -84,7 +84,7 @@ a, a:hover, a:focus, a:active, a.active {
 }
 
 section {
-	padding: 30px 0 70px 0;
+	padding: 70px 0 70px 0;
 }
 
 ul {
@@ -378,6 +378,11 @@ header .intro-text .intro-heading {
 	background-color: #82c3c7;
 	margin: 0 2px 4px;
 	font-size: 24px;
+}
+
+#about p{
+	text-align: justify;
+  text-justify: auto
 }
 
 /*--------------------
